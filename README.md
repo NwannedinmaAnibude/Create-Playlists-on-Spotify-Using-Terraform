@@ -6,15 +6,12 @@ This project involves using Terraform to create multiple Spotify playlists for d
 
 **Prerequisites**
 
-1.Terraform Installed: Ensure Terraform is installed on your machine.
-
-2.Docker Installed: Make sure Docker is installed and running.
-
-3.Spotify Account: You need a Spotify account (without premium access)
-
-4.Spotify Developer Account: Register and create an application to get the Client ID and Client Secret.
-5.Spotify Provider for Terraform: Install and configure the Spotify provider for Terraform.
-6.VS Code Editor: Recommended for editing Terraform files.
+1. Terraform Installed: Ensure Terraform is installed on your machine.
+2. Docker Installed: Make sure Docker is installed and running.
+3. Spotify Account: You need a Spotify account (without premium access)
+4. Spotify Developer Account: Register and create an application to get the Client ID and Client Secret.
+5. Spotify Provider for Terraform: Install and configure the Spotify provider for Terraform.
+6. VS Code Editor: Recommended for editing Terraform files.
 
 **STEPS TO COMPLETE THE PROJECT**
 
